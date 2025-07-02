@@ -17,6 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
+      "supportsRtl": false,
       "package": "com.lodo90.Movie_App"
     },
     "web": {
